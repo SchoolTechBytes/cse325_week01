@@ -1,0 +1,15 @@
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.exe
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.deps.json
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.runtimeconfig.json
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.dll
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.pdb
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.AssemblyInfo.cs
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.sourcelink.json
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.dll
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\refint\DotNetDebugging.dll
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.pdb
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.genruntimeconfig.cache
+E:\BYUSchoolWork\cse325\cse325_week01\DotNetDebugging\obj\Release\net10.0\ref\DotNetDebugging.dll
